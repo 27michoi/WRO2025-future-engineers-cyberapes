@@ -18,7 +18,9 @@ Over the course of development, we designed **three chassis versions:
 
 ## 2. Team
 | Stefano | Team Leader, Mechanical Engineer | Systems integration, project coordination, chassis design |
+
 | Aadidef | Software Engineer | Computer vision, control algorithms |
+
 | Minjun | Mechanical Engineer, Documenter | Chassis design, fabrication, Documentation |
 
 
