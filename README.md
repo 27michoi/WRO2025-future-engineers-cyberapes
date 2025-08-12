@@ -9,7 +9,7 @@ This repository contains the full documentation of our engineering process, sour
 
 Our goal was to design, build, and program a fully autonomous four-wheeled vehicle capable of completing both the **Open Challenge** and the **Obstacle Challenge** within the WRO rules, while documenting our full engineering journey to inspire and guide future teams.
 
-Over the course of development, we designed **three chassis versions**:
+Over the course of development, we designed **three chassis versions:
 1. Prototype 1 — our quick first build to validate steering and driving concepts.
 2. Prototype 2 — a refined and more stable platform with better sensor mounting.
 3. Final Model — our competition-ready chassis, optimized for weight, stability, and serviceability.
@@ -25,9 +25,9 @@ Over the course of development, we designed **three chassis versions**:
 
 ## 3. Development Timeline & Key Commits
 WRO rules require at least 3 commits spaced over time, each reflecting substantial progress.  
-- Commit 1 (≥2 months before competition):** Initial chassis frame, steering assembly, and 20% of final control code.  
-- Commit 2 (≥1 month before competition):** Integration of camera + LiDAR, improved steering linkage, sensor fusion.  
-- Commit 3 (≥2 weeks before competition):** Final optimizations, parking routine implementation, wiring cleanup.  
+- Commit 1 (≥2 months before competition): Initial chassis frame, steering assembly, and 20% of final control code.  
+- Commit 2 (≥1 month before competition): Integration of camera + LiDAR, improved steering linkage, sensor fusion.  
+- Commit 3 (≥2 weeks before competition): Final optimizations, parking routine implementation, wiring cleanup.  
 
 
 
